@@ -16,6 +16,12 @@ First of all, I must mention that Android ecosystem is widespread nowadays, so I
 * SQL, MySQL, JDBC
 * PCRE regex
 * Discrete mathematics, propositional calculus
+* IDE
+  * IntelliJ IDEA
+  * Eclipse
+  * CLion
+  * Code::Blocks
+
 
 ## Experience
 Here some projects from university.
