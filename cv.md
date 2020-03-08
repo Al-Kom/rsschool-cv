@@ -1,9 +1,8 @@
 # Aliaksandr Komar
 
 ## Contact Info
-
- :phone:  +375298229982
- :email:  alexarkom99@gmail.com
+Phone:  +375298229982
+E-mail:  alexarkom99@gmail.com
 
 ## Summary
 
@@ -27,12 +26,10 @@ First of all, I must mention that Android ecosystem is widespread nowadays, so I
 
 ## Experience
 Here some projects from university.
-| Project | Description |
-|---|---|
-| [Library](https://github.com/Al-Kom/library) | Home library management system |
-| [Culture IS](https://github.com/Al-Kom/cultureIS) | Information system about cultural objects and events |
-| [Persons](https://github.com/Al-Kom/persons) | Table-page processor |
-| [GED](https://github.com/Al-Kom/GED) | Graph editor |
+ * [Library](https://github.com/Al-Kom/library). Home library management system
+ * [Culture IS](https://github.com/Al-Kom/cultureIS). Information system about cultural objects and events
+ * [Persons](https://github.com/Al-Kom/persons). Table-page processor
+ * [GED](https://github.com/Al-Kom/GED). Graph editor
 
 ## Education
 
